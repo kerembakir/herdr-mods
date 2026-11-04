@@ -1,0 +1,17 @@
+herdr-mods, mods for the Herdr desktop app
+Copyright 2026 Kerem Bakir
+
+on-screen is derived from:
+
+- Path menu by Lakris2407 (https://github.com/Lakris2407/herdr-mods/tree/main/path-menu,
+  Apache License 2.0): paths.js, and main.js through its copy of the `menu` mod shipped
+  with the Herdr desktop app (https://github.com/herdrdev/herdr-app, Apache License 2.0).
+- Open with, part of Kanso by jlopezlira (https://github.com/jlopezlira/herdr-kanso,
+  Apache License 2.0, Copyright 2026 jlopezlira): the editor catalog, detection and launch
+  code in editors.js. Kanso's own NOTICE: the kanso-* mods are derived from mods shipped
+  with Herdr, through the 0oz-design fork by 0OZ (https://github.com/0OZ/0oz-design) and
+  the minimalistic layout by José Gutiérrez (https://github.com/josedugu/minimalistic).
+- globe.svg is the Lucide "globe" icon (https://lucide.dev, ISC License, Copyright (c) 2026
+  Lucide Icons and Contributors), see licenses/Lucide.txt.
+
+Each file's header says what was changed.
